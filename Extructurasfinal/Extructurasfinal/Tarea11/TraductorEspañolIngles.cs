@@ -45,9 +45,9 @@ public static class TraductorEspañolIngles
 
             try
             {
-                opcion = int.Parse(System.Console.ReadLine());
+                opcion = int.Parse(System.Console.ReadLine() ?? "-1");
             }
-            catch
+            catch (System.Exception)
             {
                 opcion = -1;
             }
@@ -56,33 +56,33 @@ public static class TraductorEspañolIngles
             {
                 // Traducir frase
                 System.Console.Write("\nIngrese una frase en español: ");
-                string frase = System.Console.ReadLine().ToLower();
+                string frase = System.Console.ReadLine()?.ToLower() ?? "";
 
                 string[] palabras = frase.Split(' ');
-                string resultado = "";
+                System.Text.StringBuilder resultado = new System.Text.StringBuilder();
 
                 foreach (string palabra in palabras)
                 {
                     if (diccionario.ContainsKey(palabra))
                     {
-                        resultado += diccionario[palabra] + " ";
+                        resultado.Append(diccionario[palabra] + " ");
                     }
                     else
                     {
-                        resultado += palabra + " ";
+                        resultado.Append(palabra + " ");
                     }
                 }
 
-                System.Console.WriteLine("\nTraducción: " + resultado);
+                System.Console.WriteLine("\nTraducción: " + resultado.ToString());
             }
             else if (opcion == 2)
             {
                 // Agregar palabra nueva
                 System.Console.Write("\nIngrese palabra en español: ");
-                string espanol = System.Console.ReadLine().ToLower();
+                string espanol = System.Console.ReadLine()?.ToLower() ?? "";
 
                 System.Console.Write("Ingrese su traducción al inglés: ");
-                string ingles = System.Console.ReadLine().ToLower();
+                string ingles = System.Console.ReadLine()?.ToLower() ?? "";
 
                 if (!diccionario.ContainsKey(espanol))
                 {

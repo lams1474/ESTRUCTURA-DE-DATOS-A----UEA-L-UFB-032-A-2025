@@ -20,13 +20,13 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 // CampaniaVacunacion.run();
 
 // Semana 11 Diccionario
-// TraductorEspañolIngles.run();
+TraductorEspañolIngles.run();
 
 // semana 12 Torneo de Futbol
 // TorneoFutbol.run();
 
 // Semana 13 Catalogo Revistas
-CatalogoRevistas.run();
+// CatalogoRevistas.run();
 
 
 
