@@ -17,10 +17,10 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 // Ejercicio8.run();
 
 // semana 10 Vacunas
-// CampaniaVacunacion.run();
+// VacunasCovid.run();
 
 // Semana 11 Diccionario
-TraductorEspañolIngles.run();
+TraductorEspanolIngles.run();
 
 // semana 12 Torneo de Futbol
 // TorneoFutbol.run();
