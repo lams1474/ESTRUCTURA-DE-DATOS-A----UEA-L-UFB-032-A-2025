@@ -1,0 +1,8 @@
+public class <<ponerNombre>>
+{
+    public static void run()
+    {
+   
+    }
+
+}

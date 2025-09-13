@@ -34,7 +34,8 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 // TorneoFutbol.run();
 
 // Semana 13 Catalogo Revistas
-CatalogoRevistas.run();
+// CatalogoRevistas.run();
+CatalogoRevistass.run();
 
 // prueba
 // Prueba.run();
