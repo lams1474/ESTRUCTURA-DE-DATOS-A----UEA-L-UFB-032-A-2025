@@ -3,6 +3,14 @@ Console.WriteLine("===== Universidad Estatal Amazonica =====");
 Console.WriteLine("===== Tercer Semestre =====");
 Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 
+// semana1
+// TiposDeDatos.run(); 
+// ConversionTipos.run();
+// EjercicioCasting.run();
+
+// demana2
+
+
 // Semana 3 
 // Estudiante.run();
 
@@ -20,14 +28,16 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 // VacunasCovid.run();
 
 // Semana 11 Diccionario
-TraductorEspanolIngles.run();
+// TraductorEspanolIngles.run();
 
 // semana 12 Torneo de Futbol
 // TorneoFutbol.run();
 
 // Semana 13 Catalogo Revistas
-// CatalogoRevistas.run();
+CatalogoRevistas.run();
 
+// prueba
+// Prueba.run();
 
 
 

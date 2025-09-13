@@ -17,7 +17,7 @@ public static class CatalogoRevistas
             "Vogue",
             "Elle",
             "Glamour",
-            "Cosmopolitan"
+            "Vistazo"
         };
 
         // Ordenamos para aplicar búsqueda binaria
