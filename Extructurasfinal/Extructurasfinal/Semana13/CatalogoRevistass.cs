@@ -61,7 +61,7 @@ public static class CatalogoRevistass
     // Indica todas las revistas del catálogo
     private static void MostrarCatalogo(System.Collections.Generic.List<string> revistas)
     {
-        System.Console.WriteLine("Catálogo completo de revistas (ordenado):");
+        System.Console.WriteLine("Catálogo completo de revistas:");
         foreach (var revista in revistas)
         {
             System.Console.WriteLine(" - " + revista);
@@ -85,7 +85,7 @@ public static class CatalogoRevistass
         bool encontrado = BusquedaBinariaRecursiva(revistas, objetivo, 0, revistas.Count - 1);
 
         if (encontrado)
-            System.Console.WriteLine(" Encontrado\n");
+            System.Console.WriteLine(" Encontrado");
         else
             System.Console.WriteLine(" No encontrado");
     }
