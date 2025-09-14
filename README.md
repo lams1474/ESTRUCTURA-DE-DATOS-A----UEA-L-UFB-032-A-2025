@@ -4,6 +4,7 @@ Repositorio académico con prácticas y proyectos en **C#**, correspondientes al
 ---
 👨‍🎓 Autor  
 Nombre: Lams  
+Universidad estatal Amazonica UEA
 Ciudad: Pujilí, Cotopaxi – Ecuador 🇪🇨  
 ---
 ## 📖 Contenido  
