@@ -2,10 +2,10 @@
 Nuevo Repositorio 2025 Estructuras de Datos – Tercer Semestre  
 Repositorio académico con prácticas y proyectos en **C#**, correspondientes al tercer semestre de la asignatura **Estructura de Datos**.  
 ---
-👨‍🎓 Autor  
-Nombre: Lams  
-Universidad estatal Amazonica UEA
-Ciudad: Pujilí, Cotopaxi – Ecuador 🇪🇨  
+- **👨‍🎓 Autor  
+- **Nombre: Lams  
+- **Universidad estatal Amazonica UEA
+- **Ciudad: Pujilí, Cotopaxi – Ecuador 🇪🇨  
 ---
 ## 📖 Contenido  
 - **Semana 9:** Conjuntos (HashSet)  
