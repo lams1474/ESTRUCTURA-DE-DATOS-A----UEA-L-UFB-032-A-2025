@@ -10,8 +10,6 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====\n");
 //Numero.run();
 //CalculadoraBasica.run();
 //ValidadorDatos.run();
-//ValidacionUsuario.run();
-
 
 
 // Semana2
