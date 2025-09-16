@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj": {}
+    "D:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj": {}
   },
   "projects": {
-    "d:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj": {
+    "D:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj",
+        "projectUniqueName": "D:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj",
         "projectName": "Extructurasfinal",
-        "projectPath": "d:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj",
+        "projectPath": "D:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\Extructurasfinal.csproj",
         "packagesPath": "C:\\Users\\Luis Maigua\\.nuget\\packages\\",
-        "outputPath": "d:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\obj\\",
+        "outputPath": "D:\\UEA2025\\ESTRUCTURA DE DATOS (A)UEA-L-UFB-032-A\\ESTRUCTURA-DE-DATOS-A----UEA-L-UFB-032-A-2025\\Extructurasfinal\\Extructurasfinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis Maigua\\AppData\\Roaming\\NuGet\\NuGet.Config"

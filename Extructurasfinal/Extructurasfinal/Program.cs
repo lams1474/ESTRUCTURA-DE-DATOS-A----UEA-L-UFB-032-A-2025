@@ -1,14 +1,20 @@
-﻿// Nueva consola Estructura de datos 2025
+﻿//Nueva consola Estructura de datos 2025
 Console.WriteLine("===== Universidad Estatal Amazonica =====");
 Console.WriteLine("===== Tercer Semestre =====");
-Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
+Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====\n");
 
 // semana1
-// TiposDeDatos.run(); 
-// ConversionTipos.run();
-// EjercicioCasting.run();
+//TiposDeDatos.run(); 
+//ConversionTipos.run();
+//EjercicioCasting.run();
+//Numero.run();
+//CalculadoraBasica.run();
+//ValidadorDatos.run();
+//ValidacionUsuario.run();
 
-// demana2
+
+
+// Semana2
 
 
 // Semana 3 
@@ -28,19 +34,20 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====");
 // VacunasCovid.run();
 
 // Semana 11 Diccionario
-// TraductorEspanolIngles.run();
+//TraductorEspanolIngles.run();
 
 // semana 12 Torneo de Futbol
 // TorneoFutbol.run();
 
 // Semana 13 Catalogo Revistas
-//CatalogoRevistas.run();
-CatalogoRevistass.run();
-
-// prueba
-// Prueba.run();
+//CatalogoRevistass.run();
 
 
+
+
+//Numero.run();
+
+// practica
 
 
 
