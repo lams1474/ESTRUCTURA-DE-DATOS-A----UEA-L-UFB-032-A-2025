@@ -13,6 +13,11 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====\n");
 
 
 // Semana2
+//Operaciones.run();
+// Temperatura.Run();
+CalculadoraCientifica.Run();
+
+
 
 
 // Semana 3 
