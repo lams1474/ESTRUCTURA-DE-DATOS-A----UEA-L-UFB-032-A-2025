@@ -46,14 +46,14 @@ Console.WriteLine("===== Luis Alfonso Maigua Sisalema =====\n");
 //ProgramaPrincipal.Run();
 
 // Semana6: 
-ListaNumerosAleatorios.Run();
+//ListaNumerosAleatorios.Run();
 //SistemaEstacionamiento.Run():
 
 
 
 
 // semana 10 Vacunas
-// VacunasCovid.run();
+//VacunasCovid.run();
 
 // Semana 11 Diccionario
 //TraductorEspanolIngles.run();
@@ -62,7 +62,7 @@ ListaNumerosAleatorios.Run();
 // TorneoFutbol.run();
 
 // Semana 13 Catalogo Revistas
-//CatalogoRevistass.run();
+CatalogoRevistass.run();
 
 
 

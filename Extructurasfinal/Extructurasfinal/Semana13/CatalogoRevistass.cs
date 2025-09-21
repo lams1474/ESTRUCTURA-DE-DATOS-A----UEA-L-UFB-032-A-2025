@@ -1,4 +1,4 @@
-// Creacion de una clase 
+// Creacion de una clase catalogo de revistas
 
 public static class CatalogoRevistass
 {
@@ -11,16 +11,16 @@ public static class CatalogoRevistass
             new System.Collections.Generic.List<string>
             {
                 "Chasqui",
-                "Oconos",
                 "Ecuador debate",
+                "Elle",
+                "Glamour",
                 "lams",
                 "Letras verdes",
                 "Lex",
-                "Yuyay",
+                "Oconos",
+                "Vistazo",
                 "Vogue",
-                "Elle",
-                "Glamour",
-                "Vistazo"
+                "Yuyay"
             };
 
         
