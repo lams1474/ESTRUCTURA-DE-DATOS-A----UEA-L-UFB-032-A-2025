@@ -1,7 +1,5 @@
 ﻿//Nueva consola Estructura de datos 2025
 
-
-
 bool continuar = true;
 while (continuar)
 {
